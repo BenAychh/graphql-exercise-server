@@ -1,0 +1,63 @@
+{
+  "name": "Arms - Workout 1",
+  "order": 1,
+  "lastWorkoutDate": "2017-09-04",
+  "exercises": [
+    {
+      "name": "Close-Grip Barbell Bench Press",
+      "images": [
+        "http://www.bodybuilding.com/exercises/exerciseImages/sequences/23/Male/m/23_2.jpg",
+        "http://www.bodybuilding.com/exercises/exerciseImages/sequences/23/Male/m/23_1.jpg"
+      ],
+      "sets": 3,
+      "reps": "4-6",
+      "instances": [
+        {
+          "date": "2017-09-04",
+          "sets": [
+            {
+              "reps": 6,
+              "totalWeight": 570
+            },
+            {
+              "reps": 6,
+              "totalWeight": 630
+            },
+            {
+              "reps": 4,
+              "totalWeight": 460
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cable Rope Overhead Triceps Extension",
+      "images": [
+        "http://www.bodybuilding.com/exercises/exerciseImages/sequences/220/Male/m/220_2.jpg",
+        "http://www.bodybuilding.com/exercises/exerciseImages/sequences/220/Male/m/220_1.jpg"
+      ],
+      "sets": 2,
+      "reps": "8-12",
+      "workouts": [
+        {
+          "date": "2017-09-05",
+          "sets": [
+            {
+              "reps": 12,
+              "totalWeight": 420
+            },
+            {
+              "reps": 12,
+              "totalWeight": 420
+            },
+            {
+              "reps": 12,
+              "totalWeight": 420
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
